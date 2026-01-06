@@ -36,8 +36,3 @@ Options:
   -h, --help                              Print help (see more with '--help')
   -V, --version                           Print version
 ```
-
-### building:
-
-- Install rust from `https://rustup.rs/`
-- Run `cargo build`
